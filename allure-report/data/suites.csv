@@ -1,0 +1,5 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Wed May 03 21:11:11 EEST 2023","Wed May 03 21:11:27 EEST 2023","16141","","Allo Geolocation Test","","","","Should test geolocation(change it)",""
+"failed","Wed May 03 21:11:37 EEST 2023","Wed May 03 21:12:01 EEST 2023","24289","","Allo Price Filter Test","","","","Should verify the price filter working correctly",""
+"passed","Wed May 03 21:12:12 EEST 2023","Wed May 03 21:12:28 EEST 2023","15730","","Allo Search Test","","","","Should test search input",""
+"passed","Wed May 03 21:10:20 EEST 2023","Wed May 03 21:10:55 EEST 2023","34742","","Allo Basket Test","","","","Should test basket(adding items,deleting them)",""
